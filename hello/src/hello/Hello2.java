@@ -1,7 +1,8 @@
 package hello;
 
 public class Hello2 {
+	
   public static void main(String[] args) {
-		 System.out.prinln("Hello");
+		 System.out.println("Hi");
   }
 }
